@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/labs/Ex02_Objects/Ex02_Objects.iml" filepath="$PROJECT_DIR$/labs/Ex02_Objects/Ex02_Objects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/labs/Ex03_Inheritance/Ex03_Inheritance.iml" filepath="$PROJECT_DIR$/labs/Ex03_Inheritance/Ex03_Inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/labs/Ex04_Interfaces/Ex04_Interfaces.iml" filepath="$PROJECT_DIR$/labs/Ex04_Interfaces/Ex04_Interfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/labs/Ex05_Collections/Ex05_Collections.iml" filepath="$PROJECT_DIR$/labs/Ex05_Collections/Ex05_Collections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/labs/Ex06_Exceptions/Ex06_Exceptions.iml" filepath="$PROJECT_DIR$/labs/Ex06_Exceptions/Ex06_Exceptions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/labs/GreetFriend/GreetFriend.iml" filepath="$PROJECT_DIR$/labs/GreetFriend/GreetFriend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/labs/HelloWorld/HelloWorld.iml" filepath="$PROJECT_DIR$/labs/HelloWorld/HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java.iml" filepath="$PROJECT_DIR$/.idea/Java.iml" />
+    </modules>
+  </component>
+</project>
